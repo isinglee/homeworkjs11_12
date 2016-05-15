@@ -1,0 +1,36 @@
+body {
+    font-family: calibry, sans-serif;
+    color: crimson;
+    font-size: 13px;
+    text-align: center;
+}
+.carousel-hider {
+    width: 650px;
+    overflow: hidden;
+    float: left;
+}
+
+.carousel-list {
+    list-style: none;
+    width: 10000px;
+    padding: 0px;
+    position: relative;
+}
+
+.carousel-element {
+    display: block;
+    margin-right: 25px;
+    float: left;
+}
+
+.carousel-element img {
+    max-width: 200px;
+}
+
+.carousel-arrow-left, .carousel-arrow-right {
+/*    position: absolute;*/
+    float: left; 
+    display: block;
+    padding: 5px;
+    margin: 50px;
+}
