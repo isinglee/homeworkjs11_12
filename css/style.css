@@ -33,4 +33,5 @@ body {
     display: block;
     padding: 5px;
     margin: 50px;
+    cursor: pointer;
 }
