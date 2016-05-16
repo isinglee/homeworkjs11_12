@@ -1,7 +1,7 @@
 $(document).ready(function() {
     var data = {
         images: [{
-            src: "img/1.jpg",
+            src: "img/1.JPG",
             description: "Rixos Sharm El Sheikh"
         }, {
             src: "img/2.JPG",
